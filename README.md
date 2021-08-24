@@ -1,1 +1,1 @@
-## `Tawian stock data` from 2007
+## Get historical data for `Taiwan stock market`
